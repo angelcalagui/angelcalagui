@@ -28,21 +28,21 @@
 ## 📊 My Contribution Activity
   <!-- Pac-Man -->
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engr-angel/github-page/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engr-angel/github-page/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/engr-angel/github-page/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engr-angel/engr-angel/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engr-angel/engr-angel/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/engr-angel/engr-angel/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
   <!-- space -->
 <br/>
   <img
-    src="https://raw.githubusercontent.com/engr-angel/github-page/main/game.gif"
+    src="https://raw.githubusercontent.com/engr-angel/engr-angel/main/game.gif"
     alt="GitHub Space Shooter Game"
     width="100%"
   />
 <br/>
   <!-- Sake -->
  <img data-importer="snake" 
-   src="https://raw.githubusercontent.com/engr-angel/github-page/snake-output/snake.svg" 
+   src="https://raw.githubusercontent.com/engr-angel/engr-angel/snake-output/snake.svg" 
    alt="Snake animation" 
    width="100%"
   />
