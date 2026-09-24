@@ -32,20 +32,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engr-angel/github-page/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/engr-angel/github-page/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-##
-  <!-- Sake -->
-<div align="left">
- <img data-importer="snake" src="https://raw.githubusercontent.com/engr-angel/github-page/snake-output/snake.svg" alt="Snake animation" />
-</div>
-  <!-- Pac-Man -->
-
-<div align="center">
+  <!-- space -->
+<br/>
   <img
-    src="https://raw.githubusercontent.com/engr-angel/github-page/space-shooter-output/game.gif"
+    src="https://raw.githubusercontent.com/engr-angel/github-page/main/game.gif"
     alt="GitHub Space Shooter Game"
+    width="100%"
   />
-</div>
+<br/>
+  <!-- Sake -->
+ <img data-importer="snake" 
+   src="https://raw.githubusercontent.com/engr-angel/github-page/snake-output/snake.svg" 
+   alt="Snake animation" 
+   width="100%"
+  />
+
 
 ##
 <p align="center">NO RESISTANCE CAN DROP YOUR POTENTIAL​</p>
