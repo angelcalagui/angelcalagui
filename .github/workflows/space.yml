@@ -25,11 +25,3 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: "game.gif"
           strategy: "random"
-
-      - name: Push game to space-shooter-output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: space-shooter-output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
