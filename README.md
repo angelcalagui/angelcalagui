@@ -23,7 +23,7 @@
 🚀 Exploring new technologies and ideas**
 
 ## GitHub Streaks Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=engr-angel&theme=tokyonight-duo)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=angelcalagui&theme=tokyonight-duo)](https://git.io/streak-stats)<br/>
 
 ## 📊 My Contribution Activity
   <!-- Pac-Man -->
