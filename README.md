@@ -25,7 +25,7 @@
 ⭐ If you find this project interesting, feel free to explore the repository and check out my portfolio. <br/>
 
 ⭐ [Portfolio](https://github.com/angelcalagui/princessangelcalagui-portfolio)<br/>
-⭐ [Princess Angel Calagui](https://princessangelcalagui.vercel.app/)
+🌐 [Princess Angel Calagui](https://princessangelcalagui.vercel.app/)
 
 📬 Connect With Me <br/>
 GitHub: [@angelcalagui](https://github.com/angelcalagui)<br/>
