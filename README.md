@@ -22,6 +22,17 @@
 📚 Continuous Learning & Skill Development<br/>
 🚀 Exploring new technologies and ideas**
 
+⭐ If you find this project interesting, feel free to explore the repository and check out my portfolio. <br/>
+
+⭐ [Portfolio](https://github.com/angelcalagui/princessangelcalagui-portfolio)<br/>
+⭐ [Princess Angel Calagui](https://princessangelcalagui.vercel.app/)
+
+📬 Connect With Me <br/>
+GitHub: [@angelcalagui](https://github.com/angelcalagui)<br/>
+LinkedIn: [Princess Angel Calagui](https://www.linkedin.com/in/princessangelcalagui/)<br/>
+Facebook: [Princess Angel Calagui](https://www.facebook.com/princessangel.calagui/)<br/>
+Instagram: [@princessangelcalagui](https://www.instagram.com/princessangelcalagui/)<br/>
+
 ## GitHub Streaks Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=angelcalagui&theme=tokyonight-duo)](https://git.io/streak-stats)<br/>
 
